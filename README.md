@@ -42,4 +42,4 @@ This project demonstrates how to configure and enforce password security policie
 # Screenshots
 
 ## Default Domain Policy
-![Default Domain Policy](screenshots/01-default-domain-policy.png
+![Default Domain Policy](screenshots/01-default-domain-policy.png)
