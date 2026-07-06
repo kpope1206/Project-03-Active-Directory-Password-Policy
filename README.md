@@ -57,7 +57,7 @@ This project demonstrates how to configure and enforce password security policie
 ![GPupdate](screenshots/05-gpudate-success.png)
 
 ## Weak Password Rejected
-![Weak Password](screenshots/06-passowrd-policy-failed.png)
+![Weak Password](screenshots/06-password-policy-failed.png)
 
 ---
 
