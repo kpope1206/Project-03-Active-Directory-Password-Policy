@@ -48,13 +48,13 @@ This project demonstrates how to configure and enforce password security policie
 ![Password Policy](screenshots/02-password-policy-settings.png)
 
 ## Configured Password Policy
-![Configured Password Policy](screenshots/03-passowrd-policy-configured.png)
+![Configured Password Policy](screenshots/03-password-policy-configured.png)
 
 ## Account Lockout Policy
 ![Account Lockout](screenshots/04-account-lockout-policy.png)
 
 ## Group Policy Updated
-![GPupdate](screenshots/05-gpudate-success.png)
+![GPupdate](screenshots/05-gpupdate-success.png)
 
 ## Weak Password Rejected
 ![Weak Password](screenshots/06-password-policy-failed.png)
