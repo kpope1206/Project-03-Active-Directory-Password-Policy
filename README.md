@@ -59,9 +59,6 @@ This project demonstrates how to configure and enforce password security policie
 ## Weak Password Rejected
 ![Weak Password](screenshots/06-passowrd-policy-failed.png)
 
-## Successful Password Change
-![Successful Password](screenshots/07-password-policy-success.png)
-
 ---
 
 # Conclusion
